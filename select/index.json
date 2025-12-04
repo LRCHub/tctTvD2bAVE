@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "metro",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2025-12-04T20:30:34.645292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coup D'Oeil Dans Le Metro",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/01_Coup_D'Oeil_Dans_Le_Metro_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Metro",
+      "artist": "Deichkind",
+      "has_synced": false,
+      "path": "select/02_Metro_Deichkind.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vegetable (Metro)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Vegetable_(Metro)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Flower (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/04_Blue_Flower_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Flower (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/05_Blue_Flower_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fade Into You (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/06_Fade_Into_You_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fade Into You (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/07_Fade_Into_You_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowers In December (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/08_Flowers_In_December_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flowers in December (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/09_Flowers_in_December_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghost Highway (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/10_Ghost_Highway_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghost Highway (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/11_Ghost_Highway_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "give You My Lovin' (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/12_give_You_My_Lovin'_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give You My Lovin' (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/13_Give_You_My_Lovin'_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Halah (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/14_Halah_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Halah (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/15_Halah_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Into Dust (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/16_Into_Dust_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into Dust (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/17_Into_Dust_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ride It On (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/18_Ride_It_On_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ride It On (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/19_Ride_It_On_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cartoon Heroes - Metro 7\" Edit",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/20_Cartoon_Heroes_-_Metro_7__Edit_Aqua.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "metro",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/pl_01_metro_kurayamisaka.txt"
+    }
+  ]
+}
